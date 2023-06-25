@@ -1,0 +1,44 @@
+{
+  "posts": [
+     {
+      "id": 0,
+      "title": "X Men",
+      "author": "Mr.X"
+    },
+    {
+      "id": 1,
+      "title": "Spiderman",
+      "author": "Peter Parker"
+    },
+    {
+      "id":2,
+      "title":"Batman Begins",
+      "author":"Bruce Wayne"
+    },
+        {
+      "id":3,
+      "title":"Ricky & Morty",
+      "author":"Rocky"
+    },
+      {
+      "id":4,
+      "title":"Hulk",
+      "author":"Mr Hulk"
+    },
+        {
+      "id":5,
+      "title":"Ghost Rider",
+      "author":"Mr Ghost"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
